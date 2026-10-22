@@ -1,0 +1,86 @@
+name: 刷新直播源
+
+on:
+  schedule:
+    # UTC 03:00 = 北京时间 11:00
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+    inputs:
+      rounds:
+        description: '复测轮数（多轮取交集，过滤偶发可用的飘源）'
+        required: false
+        default: '3'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-iptv
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 拉取并实测筛选
+        continue-on-error: true
+        env:
+          PYTHONUNBUFFERED: '1'
+        run: |
+          python3 refresh.py \
+            --rounds "${{ github.event.inputs.rounds || '3' }}" \
+            --full \
+            --out car-tv.m3u \
+            | tee refresh.log
+
+      - name: 检查是否有有效更新
+        id: check
+        run: |
+          # 上游全挂时 refresh.py 返回非 0，此时不覆盖已有清单
+          if [ ! -s car-tv.m3u ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "!! 清单为空，保留旧版本"
+            exit 0
+          fi
+          n=$(grep -c '^#EXTINF' car-tv.m3u || true)
+          echo "有效条目: $n"
+          if git diff --quiet -- car-tv.m3u lists/car-tv.m3u; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "清单无变化"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: 同步副本到 lists/
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          mkdir -p lists
+          cp car-tv.m3u lists/car-tv.m3u
+          [ -f car-tv-full.m3u ] && cp car-tv-full.m3u lists/car-tv-full.m3u || true
+
+      - name: 提交更新
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add car-tv.m3u car-tv-full.m3u lists/ refresh-report.txt refresh.log 2>/dev/null || true
+          git commit -m "chore: 刷新直播源 $(date -u '+%Y-%m-%d %H:%M UTC')" || echo "无改动可提交"
+          git push
+
+      - name: 上传刷新日志
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: refresh-report
+          path: |
+            refresh.log
+            refresh-report.txt
+          if-no-files-found: ignore
