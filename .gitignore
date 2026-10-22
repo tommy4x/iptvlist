@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+test_out.m3u
+*.log
+.DS_Store
+.idea/
+.vscode/
+push_github.py
+do_push.py
+device_code.json
+token.txt
+wait_auth.log
