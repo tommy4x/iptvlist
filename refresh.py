@@ -430,14 +430,22 @@ def main():
     print(f'    已写 {args.out} ({len(uniq)} 条)')
 
     if args.full:
-        # 全量：所有候选都写，但标注状态
+        # 全量：所有候选都写。
+        # 注意：必须按 URL 保留全部，不能走 build_playlist（那个按台名去重，
+        # 会把同台多源合并，数量对不上候选池）。同台多源用序号区分。
         allrows = []
         for u, nm in pool.items():
             cn, g = classify(nm, u)
             allrows.append((g, cn, u))
-        ftext, _ = build_playlist(allrows)
+        flines = ['#EXTM3U']
+        seen = collections.Counter()
+        for g, cn, u in allrows:
+            seen[cn] += 1
+            name = cn if seen[cn] == 1 else '%s %d' % (cn, seen[cn])
+            flines.append('#EXTINF:-1 tvg-name="%s" group-title="%s",%s' % (name, g, name))
+            flines.append(u)
         with open('car-tv-full.m3u', 'w', encoding='utf-8') as f:
-            f.write(ftext)
+            f.write('\n'.join(flines) + '\n')
         print(f'    已写 car-tv-full.m3u ({len(allrows)} 条)')
 
     print('[4/4] 统计:')
