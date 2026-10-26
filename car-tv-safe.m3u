@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV-1 综合" group-title="央视",CCTV-1 综合
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-10 科教" group-title="央视",CCTV-10 科教
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-11 戏曲" group-title="央视",CCTV-11 戏曲
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-12 社会与法" group-title="央视",CCTV-12 社会与法
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-13 新闻" group-title="央视",CCTV-13 新闻
+http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-14 少儿" group-title="央视",CCTV-14 少儿
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-15 音乐" group-title="央视",CCTV-15 音乐
+http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-16 奥林匹克" group-title="央视",CCTV-16 奥林匹克
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-17 农业农村" group-title="央视",CCTV-17 农业农村
+http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-2 财经" group-title="央视",CCTV-2 财经
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-3 综艺" group-title="央视",CCTV-3 综艺
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-7 国防军事" group-title="央视",CCTV-7 国防军事
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-8 电视剧" group-title="央视",CCTV-8 电视剧
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-8K 超高清" group-title="央视",CCTV-8K 超高清
+http://192.151.150.154/live/cctv8k.m3u8
+#EXTINF:-1 tvg-name="CCTV-2 文化品质" group-title="央视付费",CCTV-2 文化品质
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-5+ 世界地理" group-title="央视付费",CCTV-5+ 世界地理
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-5+ 健康" group-title="央视付费",CCTV-5+ 健康
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-5+ 台球" group-title="央视付费",CCTV-5+ 台球
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-5+ 时尚" group-title="央视付费",CCTV-5+ 时尚
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-5+ 武器科技" group-title="央视付费",CCTV-5+ 武器科技
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-5+ 风暴剧场" group-title="央视付费",CCTV-5+ 风暴剧场
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-5+ 风暴足球" group-title="央视付费",CCTV-5+ 风暴足球
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-5+ 风暴音乐" group-title="央视付费",CCTV-5+ 风暴音乐
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-5+ 高尔夫网球" group-title="央视付费",CCTV-5+ 高尔夫网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-6 怀旧剧场" group-title="央视付费",CCTV-6 怀旧剧场
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-6 第一剧场" group-title="央视付费",CCTV-6 第一剧场
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视",河北卫视
+https://event.pull.hebtv.com/live/live101.m3u8
+#EXTINF:-1 tvg-name="China Travel" group-title="地方台",China Travel
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 tvg-name="DHA" group-title="地方台",DHA
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1 tvg-name="Discovering China" group-title="地方台",Discovering China
+https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+#EXTINF:-1 tvg-name="God Stands Kids Club TV Chinese" group-title="地方台",God Stands Kids Club TV Chinese
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
+#EXTINF:-1 tvg-name="WXTV" group-title="地方台",WXTV
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 tvg-name="宿州公共" group-title="地方台",宿州公共
+http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+#EXTINF:-1 tvg-name="广西综艺旅游" group-title="地方台",广西综艺旅游
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="潮州公共频道" group-title="地方台",潮州公共频道
+http://113.64.146.48:1688/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="通化电视台" group-title="地方台",通化电视台
+http://139.211.217.79:9004/hls/75/index.m3u8
+#EXTINF:-1 tvg-name="集安综合" group-title="地方台",集安综合
+https://stream2.jlntv.cn/ja/sd/live.m3u8
+#EXTINF:-1 tvg-name="CCTV-4 亚洲" group-title="国际",CCTV-4 亚洲
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-name="CGTN Global Biz" group-title="国际",CGTN Global Biz
+https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
+#EXTINF:-1 tvg-name="Beautiful Life 华人" group-title="海外中文",Beautiful Life 华人
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
