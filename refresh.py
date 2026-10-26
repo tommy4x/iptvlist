@@ -48,6 +48,10 @@ UPSTREAMS = [
     # 备用代理（主代理挂了时兜底）
     'https://ghproxy.net/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
     'https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
+    # 按【语言】聚合的清单：countries/cn.m3u 只按国家收（漏掉港台/海外中文台），
+    # languages/zho.m3u 按语言收，能补上 CCTVR 港澳台/海外中文/部分境外中文频道。
+    'https://gh-proxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/languages/zho.m3u',
+    'https://ghproxy.net/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/languages/zho.m3u',
 ]
 
 # 已知不稳定 / 海外 CDN / 版权存疑的域名，直接排除
@@ -135,12 +139,33 @@ CN_MAP = {
     'Ando TV (1080p)': ('Ando TV 华人', '海外中文'),
     'CETV1 (576p)': ('CETV-1 中国教育', '央视'),
     'CETV2 (576p)': ('CETV-2 中国教育', '央视'),
+    # ---- 港澳台 / 海外中文（来自 languages/zho.m3u）----
+    'CCTV-4 America (1080p)': ('CCTV-4 America', '国际'),
+    'CCTV-4 Asia (720p)': ('CCTV-4 亚洲', '国际'),
+    'CCTV-4 Europe': ('CCTV-4 欧洲', '国际'),
+    'CCTV+ 1 (600p) [Not 24/7]': ('CCTV+ 央视网1', '央视'),
+    'CCTV+ 2 (600p) [Not 24/7]': ('CCTV+ 央视网2', '央视'),
+    'CCTV-1 HD (1080p)': ('CCTV-1 综合 HD', '央视'),
+    'CCTV-6 HD (1080p)': ('CCTV-6 电影 HD', '央视'),
+    'CCTV-13 HD (1080p)': ('CCTV-13 新闻 HD', '央视'),
+    'CCTV-4K HD (1080p)': ('CCTV-4K 超高清', '央视'),
+    'CCTV-5+': ('CCTV-5+ 赛事', '央视付费'),
+    'CCTV-6 [Geo-blocked]': ('CCTV-6 电影(备用)', '央视'),
+    'Anhui TV': ('安徽卫视', '卫视'),
+    'Beijing Satellite TV [Not 24/7]': ('北京卫视', '卫视'),
+    'Beijing Satellite TV HD (1080p)': ('北京卫视 HD', '卫视'),
+    'BSTV (Hong Kong) (576p)': ('BSTV 香港台', '港澳台'),
+    '8TV': ('8TV 马来西亚', '海外中文'),
+    'Angel TV Chinese (720p)': ('Angel TV 华人', '海外中文'),
+    'BabyFirst (720p)': ('宝贝第一台', '海外中文'),
+    'Beautiful Life TV': ('Beautiful Life 华人', '海外中文'),
+    'Berita RTM [Geo-blocked]': ('RTM 马来新闻', '海外中文'),
 }
 
 # 浙江系（ali-m-l.cztv.com / l.cztvcloud.com）—— 频道名在源里五花八门，按 URL 归组
 ZHEJIANG_HOSTS = ('cztv.com', 'cztvcloud.com', 'shaoxing.com.cn')
 
-GROUP_ORDER = ['央视', '央视付费', '卫视', '地方台', '国际', '海外中文', '其他']
+GROUP_ORDER = ['央视', '央视付费', '卫视', '港澳台', '地方台', '国际', '海外中文', '其他']
 
 UA = 'Mozilla/5.0 (Linux; Android 4.2.2) AppleWebKit/537.36'
 
