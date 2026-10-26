@@ -33,6 +33,16 @@
 https://gh-proxy.com/https://raw.githubusercontent.com/tommy4x/iptvlist/main/car-tv.m3u
 ```
 
+**嫌广告多？换这两份（见下方「低广告风险」说明）：**
+
+```
+# 干净版：30 条，单节目流，最不易被聚合服务器插播
+https://gh-proxy.com/https://raw.githubusercontent.com/tommy4x/iptvlist/main/car-tv-clean.m3u
+
+# 去聚合版：40 条，剔除 78 条严重聚合源（>200 路节目的转播服务器）
+https://gh-proxy.com/https://raw.githubusercontent.com/tommy4x/iptvlist/main/car-tv-safe.m3u
+```
+
 这个仓库每天由 GitHub Actions 自动重测刷新，源失效了会自动剔除、能用的新源会自动补上。**车机刷新播放列表就拿到新版。**
 
 ### 代理前缀（国内访问 raw 需要）
@@ -56,11 +66,16 @@ https://gh-proxy.com/https://raw.githubusercontent.com/tommy4x/iptvlist/main/car
 | 文件 | 内容 |
 |---|---|
 | `car-tv.m3u` | **主清单**：多轮复测确认能播的稳定源，中文台名，已分组 |
+| `car-tv-clean.m3u` | **干净版**：30 条，PAT 仅 1 路节目，最不易被聚合服务器插播广告 |
+| `car-tv-safe.m3u` | **去聚合版**：40 条，剔除 78 条严重聚合源（单流 >200 路节目） |
+| `prog_count.json` | 全量 123 条「单流节目路数」扫描结果（广告风险判定的原始数据） |
 | `lists/car-tv.m3u` | 同上（副本，方便按目录引用） |
 | `car-tv-full.m3u` / `lists/car-tv-full.m3u` | 全量候选池（含未确认可播的），仅供参考 |
 | `refresh.py` | 自动筛选脚本：拉源 → 实测 → 多轮取交集 → 生成清单 |
 | `refresh-report.txt` | 最近一次刷新报告（存活数量 + 逐条清单） |
 | `使用说明.md` | Perfect Player 1.5.3 车机使用说明 |
+
+> **关于「插播广告」**：免费源本质是第三方转播。实测 123 条里 **78 条（63%）是聚合服务器**——单条 TS 流里塞了 200~6910 个节目（正常电视台只有 1~2 路）。这类服务器对码流有完全控制权，转播时叠贴片/跑马灯/定时切流插广告，就是常见的「第三方插播」。`car-tv-clean.m3u`（单节目流）显著降低中招概率，但裸 IP restream 仍是第三方，无法 100% 保证无广告。**真正零广告请用央视频 / 咪咕等官方授权 App 或运营商 IPTV。**
 
 ---
 
