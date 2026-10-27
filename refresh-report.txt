@@ -1,7 +1,8 @@
-更新时间: 2026-10-26 08:49:31
-候选池: 573  稳定: 130
+更新时间: 2026-10-27 08:56:49
+候选池: 574  稳定: 133
 
 [央视] CCTV+ 央视网1	https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+[央视] CCTV+ 央视网2	https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 [央视] CCTV-1 综合	http://74.91.26.218:82/live/cctv1hd.m3u8
 [央视] CCTV-10 科教	http://74.91.26.218:82/live/cctv10hd.m3u8
 [央视] CCTV-11 戏曲	http://74.91.26.218:82/live/cctv11hd.m3u8
@@ -67,6 +68,7 @@
 [地方台] PTS 3	http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
 [地方台] Peace TV Chinese	https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
 [地方台] SJTV	http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
+[地方台] TV BRICS Chinese	https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 [地方台] TVBS-Asia	http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 [地方台] WCETV Digital Channel 31.8	https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 [地方台] WXTV	https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
@@ -87,7 +89,6 @@
 [地方台] 四平新闻综合	https://stream2.jlntv.cn/sptv/sd/live.m3u8
 [地方台] 四平电视台	http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 [地方台] 嵊州综合	https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-[地方台] 广东韶关综合台	https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 [地方台] 广州电视 综合频道	https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 [地方台] 广西综艺旅游	http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 [地方台] 延边新闻综合	https://stream2.jlntv.cn/jlyb/sd/live.m3u8
@@ -100,6 +101,7 @@
 [地方台] 松原新闻综合	https://stream2.jlntv.cn/sytv/sd/live.m3u8
 [地方台] 楚雄新闻频道	http://hwapi.yntv.net/ew265l/848y54.m3u8
 [地方台] 武进新闻	https://live.wjyanghu.com/live/CH1.m3u8
+[地方台] 武进生活	https://live.wjyanghu.com/live/CH2.m3u8
 [地方台] 江津新闻综合	http://222.179.155.21:1935/ch1.m3u8
 [地方台] 江津经济生活	http://222.179.155.21:1935/ch0.m3u8
 [地方台] 潮州公共频道	http://113.64.146.48:1688/hls/4/index.m3u8
@@ -118,6 +120,7 @@
 [地方台] 通化电视台	http://139.211.217.79:9004/hls/75/index.m3u8
 [地方台] 长春综合	https://stream2.jlntv.cn/jlcc/sd/live.m3u8
 [地方台] 集安综合	https://stream2.jlntv.cn/ja/sd/live.m3u8
+[地方台] 靖江新闻綜合	http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
 [地方台] 餘姚姚江文化	https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 [国际] CCTV-4 亚洲	http://74.91.26.218:82/live/cctv4hd.m3u8
 [国际] CGTN	https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8

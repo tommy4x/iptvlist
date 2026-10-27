@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV+ 央视网1" group-title="央视",CCTV+ 央视网1
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV+ 央视网2" group-title="央视",CCTV+ 央视网2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV-1 综合" group-title="央视",CCTV-1 综合
 http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-10 科教" group-title="央视",CCTV-10 科教
@@ -131,6 +133,8 @@ http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
 https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
 #EXTINF:-1 tvg-name="SJTV" group-title="地方台",SJTV
 http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="TV BRICS Chinese" group-title="地方台",TV BRICS Chinese
+https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBS-Asia" group-title="地方台",TVBS-Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-name="WCETV Digital Channel 31.8" group-title="地方台",WCETV Digital Channel 31.8
@@ -171,8 +175,6 @@ https://stream2.jlntv.cn/sptv/sd/live.m3u8
 http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 #EXTINF:-1 tvg-name="嵊州综合" group-title="地方台",嵊州综合
 https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 tvg-name="广东韶关综合台" group-title="地方台",广东韶关综合台
-https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 #EXTINF:-1 tvg-name="广州电视 综合频道" group-title="地方台",广州电视 综合频道
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 #EXTINF:-1 tvg-name="广西综艺旅游" group-title="地方台",广西综艺旅游
@@ -197,6 +199,8 @@ https://stream2.jlntv.cn/sytv/sd/live.m3u8
 http://hwapi.yntv.net/ew265l/848y54.m3u8
 #EXTINF:-1 tvg-name="武进新闻" group-title="地方台",武进新闻
 https://live.wjyanghu.com/live/CH1.m3u8
+#EXTINF:-1 tvg-name="武进生活" group-title="地方台",武进生活
+https://live.wjyanghu.com/live/CH2.m3u8
 #EXTINF:-1 tvg-name="江津新闻综合" group-title="地方台",江津新闻综合
 http://222.179.155.21:1935/ch1.m3u8
 #EXTINF:-1 tvg-name="江津经济生活" group-title="地方台",江津经济生活
@@ -233,6 +237,8 @@ http://139.211.217.79:9004/hls/75/index.m3u8
 https://stream2.jlntv.cn/jlcc/sd/live.m3u8
 #EXTINF:-1 tvg-name="集安综合" group-title="地方台",集安综合
 https://stream2.jlntv.cn/ja/sd/live.m3u8
+#EXTINF:-1 tvg-name="靖江新闻綜合" group-title="地方台",靖江新闻綜合
+http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
 #EXTINF:-1 tvg-name="餘姚姚江文化" group-title="地方台",餘姚姚江文化
 https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 亚洲" group-title="国际",CCTV-4 亚洲

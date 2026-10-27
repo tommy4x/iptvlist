@@ -27,8 +27,8 @@ http://74.91.26.218:82/live/cctv2hd.m3u8
 http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-4K 超高清" group-title="央视",CCTV-4K 超高清
 http://198.204.240.250:82/live/cctv4k.m3u8
-#EXTINF:-1 tvg-name="CCTV-5+ 赛事" group-title="央视付费",CCTV-5+ 赛事
-https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+#EXTINF:-1 tvg-name="CCTV-5+" group-title="地方台",CCTV-5+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV-6 电影(备用)" group-title="央视",CCTV-6 电影(备用)
 https://live.eac-news.com/CCTV/streams/cctv6.m3u8
 #EXTINF:-1 tvg-name="CCTV-6 电影 HD" group-title="央视",CCTV-6 电影 HD
@@ -293,6 +293,8 @@ http://198.204.240.250:82/live/cctv1.m3u8
 https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 亚洲" group-title="国际",CCTV-4 亚洲
 http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-5+ 赛事" group-title="央视付费",CCTV-5+ 赛事
+https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 #EXTINF:-1 tvg-name="CCTV-6" group-title="地方台",CCTV-6
 http://198.204.240.250:82/live/cctv6.m3u8
 #EXTINF:-1 tvg-name="CCTV-8K" group-title="地方台",CCTV-8K
