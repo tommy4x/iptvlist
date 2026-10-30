@@ -79,8 +79,6 @@ https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
 http://198.204.240.250:82/live/cctv6.m3u8
 #EXTINF:-1 tvg-name="CGNTV Chinese" group-title="地方台",CGNTV Chinese
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-#EXTINF:-1 tvg-name="CND 中学生频道" group-title="地方台",CND 中学生频道
-http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 #EXTINF:-1 tvg-name="China Travel" group-title="地方台",China Travel
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 #EXTINF:-1 tvg-name="DAAI TV" group-title="地方台",DAAI TV
@@ -91,8 +89,6 @@ https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 #EXTINF:-1 tvg-name="EBC Foreign Movie" group-title="地方台",EBC Foreign Movie
 http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="God Stands TV Chinese" group-title="地方台",God Stands TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
 #EXTINF:-1 tvg-name="Good 2" group-title="地方台",Good 2
 https://live.streamingfast.net/osmflivech2.m3u8
 #EXTINF:-1 tvg-name="Good TV (Taiwan)" group-title="地方台",Good TV (Taiwan)
@@ -107,6 +103,8 @@ https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
 https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 #EXTINF:-1 tvg-name="Jade" group-title="地方台",Jade
 http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+#EXTINF:-1 tvg-name="Jingmen Comprehensive News Channel" group-title="地方台",Jingmen Comprehensive News Channel
+https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
 #EXTINF:-1 tvg-name="KIX" group-title="地方台",KIX
 https://freem3u.xyz/api/live/play.m3u8?vid=9901
 #EXTINF:-1 tvg-name="Love Nature HD" group-title="地方台",Love Nature HD
@@ -141,8 +139,6 @@ http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 #EXTINF:-1 tvg-name="WXTV" group-title="地方台",WXTV
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-name="Xizang TV Tibetan" group-title="地方台",Xizang TV Tibetan
-http://php.jdshipin.com:8880/xztv.php?id=zy
 #EXTINF:-1 tvg-name="上虞1新闻综合" group-title="地方台",上虞1新闻综合
 https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 #EXTINF:-1 tvg-name="上虞3新商都" group-title="地方台",上虞3新商都
@@ -249,7 +245,11 @@ https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 #EXTINF:-1 tvg-name="CGTN Spanish" group-title="国际",CGTN Spanish
 http://45.186.106.147:8880/play/a06f/index.m3u8
+#EXTINF:-1 tvg-name="Ando TV 华人" group-title="海外中文",Ando TV 华人
+http://play.kankanlive.com/live/1711956137852982.m3u8
 #EXTINF:-1 tvg-name="Beautiful Life 华人" group-title="海外中文",Beautiful Life 华人
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-name="RTM 马来新闻" group-title="海外中文",RTM 马来新闻
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+#EXTINF:-1 tvg-name="宝贝第一台" group-title="海外中文",宝贝第一台
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
