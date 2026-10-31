@@ -79,6 +79,8 @@ https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
 http://198.204.240.250:82/live/cctv6.m3u8
 #EXTINF:-1 tvg-name="CGNTV Chinese" group-title="地方台",CGNTV Chinese
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 tvg-name="CND 中学生频道" group-title="地方台",CND 中学生频道
+http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 #EXTINF:-1 tvg-name="China Travel" group-title="地方台",China Travel
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 #EXTINF:-1 tvg-name="DAAI TV" group-title="地方台",DAAI TV
@@ -127,8 +129,6 @@ http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 #EXTINF:-1 tvg-name="PTS 3" group-title="地方台",PTS 3
 http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="Peace TV Chinese" group-title="地方台",Peace TV Chinese
-https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
 #EXTINF:-1 tvg-name="SJTV" group-title="地方台",SJTV
 http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="TV BRICS Chinese" group-title="地方台",TV BRICS Chinese
@@ -171,6 +171,8 @@ https://stream2.jlntv.cn/sptv/sd/live.m3u8
 http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 #EXTINF:-1 tvg-name="嵊州综合" group-title="地方台",嵊州综合
 https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 tvg-name="广东韶关综合台" group-title="地方台",广东韶关综合台
+https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 #EXTINF:-1 tvg-name="广州电视 综合频道" group-title="地方台",广州电视 综合频道
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 #EXTINF:-1 tvg-name="广西综艺旅游" group-title="地方台",广西综艺旅游
@@ -195,8 +197,6 @@ https://stream2.jlntv.cn/sytv/sd/live.m3u8
 http://hwapi.yntv.net/ew265l/848y54.m3u8
 #EXTINF:-1 tvg-name="武进新闻" group-title="地方台",武进新闻
 https://live.wjyanghu.com/live/CH1.m3u8
-#EXTINF:-1 tvg-name="武进生活" group-title="地方台",武进生活
-https://live.wjyanghu.com/live/CH2.m3u8
 #EXTINF:-1 tvg-name="江津新闻综合" group-title="地方台",江津新闻综合
 http://222.179.155.21:1935/ch1.m3u8
 #EXTINF:-1 tvg-name="江津经济生活" group-title="地方台",江津经济生活
