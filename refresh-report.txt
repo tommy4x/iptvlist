@@ -1,5 +1,5 @@
-更新时间: 2026-11-04 10:49:53
-候选池: 583  稳定: 124
+更新时间: 2026-11-05 10:44:32
+候选池: 584  稳定: 128
 
 [央视] CCTV+ 央视网1	https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 [央视] CCTV+ 央视网2	https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
@@ -70,6 +70,8 @@
 [地方台] WCETV Digital Channel 31.8	https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 [地方台] WXTV	https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 [地方台] Xizang TV Tibetan	https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
+[地方台] 上虞1新闻综合	https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+[地方台] 上虞3新商都	https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 [地方台] 上虞經濟文化	https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 [地方台] 东莞综合频道	https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 [地方台] 之江纪录	https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
@@ -106,6 +108,8 @@
 [地方台] 福州广播电视台都市生活频道 (FZTV-3)	http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 [地方台] 福州电视台少儿频道 (FZTV-少儿)	http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 [地方台] 荣昌综合	http://183.64.181.25:40023/rongchang01.m3u8
+[地方台] 萧山新闻综合	https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+[地方台] 蕭山生活頻道	https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 [地方台] 赤峰综合新闻	http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 [地方台] 辽源新闻综合	https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 [地方台] 通化新闻	https://stream2.jlntv.cn/tonghua1/sd/live.m3u8

@@ -137,6 +137,10 @@ https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-name="Xizang TV Tibetan" group-title="地方台",Xizang TV Tibetan
 https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
+#EXTINF:-1 tvg-name="上虞1新闻综合" group-title="地方台",上虞1新闻综合
+https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1 tvg-name="上虞3新商都" group-title="地方台",上虞3新商都
+https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 tvg-name="上虞經濟文化" group-title="地方台",上虞經濟文化
 https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 tvg-name="东莞综合频道" group-title="地方台",东莞综合频道
@@ -209,6 +213,10 @@ http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-name="荣昌综合" group-title="地方台",荣昌综合
 http://183.64.181.25:40023/rongchang01.m3u8
+#EXTINF:-1 tvg-name="萧山新闻综合" group-title="地方台",萧山新闻综合
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 tvg-name="蕭山生活頻道" group-title="地方台",蕭山生活頻道
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1 tvg-name="赤峰综合新闻" group-title="地方台",赤峰综合新闻
 http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 #EXTINF:-1 tvg-name="辽源新闻综合" group-title="地方台",辽源新闻综合
