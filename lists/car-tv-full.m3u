@@ -112,19 +112,19 @@ http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
 #EXTINF:-1 tvg-name="Documentary Humanities Channel" group-title="地方台",Documentary Humanities Channel
 http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-name="东莞综合频道" group-title="地方台",东莞综合频道
-https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
 #EXTINF:-1 tvg-name="Dunhuang TV" group-title="地方台",Dunhuang TV
 http://117.156.28.119/270000001111/1110000028/index.m3u8
 #EXTINF:-1 tvg-name="Fengshang Shopping Channel" group-title="地方台",Fengshang Shopping Channel
 http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
 #EXTINF:-1 tvg-name="Fujian Comprehensive Channel" group-title="地方台",Fujian Comprehensive Channel
-http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88
+http://120.39.52.202:5140/福建综合
 #EXTINF:-1 tvg-name="Golden Eagle Cartoon" group-title="地方台",Golden Eagle Cartoon
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 #EXTINF:-1 tvg-name="Guangdong Satellite TV" group-title="地方台",Guangdong Satellite TV
 https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
 #EXTINF:-1 tvg-name="广西综艺旅游" group-title="地方台",广西综艺旅游
-http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="广州电视 综合频道" group-title="地方台",广州电视 综合频道
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 #EXTINF:-1 tvg-name="Guizhou TV" group-title="地方台",Guizhou TV
@@ -216,17 +216,17 @@ rtmp://splay-qukan.cztv.com/live/1792059352668052?auth_key=1886667371-a351173879
 #EXTINF:-1 tvg-name="Qinghai TV" group-title="地方台",Qinghai TV
 http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
 #EXTINF:-1 tvg-name="QTV-1" group-title="地方台",QTV-1
-http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+http://119.166.53.110:85/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="QTV-2" group-title="地方台",QTV-2
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 #EXTINF:-1 tvg-name="QTV-3" group-title="地方台",QTV-3
-http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+http://119.166.53.110:85/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="QTV-4" group-title="地方台",QTV-4
-http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+http://119.166.53.110:85/tsfile/live/1004_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="QTV-5" group-title="地方台",QTV-5
 http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 tvg-name="QTV-6" group-title="地方台",QTV-6
-http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+http://119.166.53.110:85/tsfile/live/0002_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="Shandong Satellite TV" group-title="地方台",Shandong Satellite TV
 http://125.210.152.18:9090/live/SDWSHD_H265.m3u8
 #EXTINF:-1 tvg-name="Shandong TV" group-title="地方台",Shandong TV
@@ -267,8 +267,6 @@ https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
 http://110.153.180.106:55555/out_3/index.m3u8
 #EXTINF:-1 tvg-name="新疆电视 三套" group-title="地方台",新疆电视 三套
 http://110.153.180.106:55555/out_2/index.m3u8
-#EXTINF:-1 tvg-name="新疆电视 五套" group-title="地方台",新疆电视 五套
-http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="新疆电视 八套" group-title="地方台",新疆电视 八套
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="西藏电视 中文" group-title="地方台",西藏电视 中文
@@ -326,15 +324,11 @@ http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 #EXTINF:-1 tvg-name="Discovering China" group-title="地方台",Discovering China
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 #EXTINF:-1 tvg-name="东莞综合频道 2" group-title="地方台",东莞综合频道 2
-http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 #EXTINF:-1 tvg-name="Foshan News TV" group-title="地方台",Foshan News TV
 http://dslive.grtn.cn/fszh/sd/live.m3u8
-#EXTINF:-1 tvg-name="Fujian Comprehensive Channel 2" group-title="地方台",Fujian Comprehensive Channel 2
-http://120.39.52.202:5140/福建综合
 #EXTINF:-1 tvg-name="Golden Eagle Cartoon 2" group-title="地方台",Golden Eagle Cartoon 2
 http://1.24.190.98:10080/hls/51/index.m3u8
-#EXTINF:-1 tvg-name="广西综艺旅游 2" group-title="地方台",广西综艺旅游 2
-http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="江苏新闻综合" group-title="卫视",江苏新闻综合
 https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视
@@ -348,13 +342,13 @@ http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
 #EXTINF:-1 tvg-name="青海卫视" group-title="卫视",青海卫视
 https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 #EXTINF:-1 tvg-name="QTV-1 2" group-title="地方台",QTV-1 2
-http://119.166.53.110:85/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
+http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 #EXTINF:-1 tvg-name="QTV-3 2" group-title="地方台",QTV-3 2
-http://119.166.53.110:85/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 #EXTINF:-1 tvg-name="QTV-4 2" group-title="地方台",QTV-4 2
-http://119.166.53.110:85/tsfile/live/1004_1.m3u8?authid=0&key=txiptv&playlive=1
+http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 #EXTINF:-1 tvg-name="QTV-6 2" group-title="地方台",QTV-6 2
-http://119.166.53.110:85/tsfile/live/0002_1.m3u8?authid=0&key=txiptv&playlive=1
+http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 #EXTINF:-1 tvg-name="Tonghua TV 2" group-title="地方台",Tonghua TV 2
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 #EXTINF:-1 tvg-name="通化电视台" group-title="地方台",通化电视台
@@ -1049,9 +1043,9 @@ http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-h
 http://cdn6.163189.xyz/163189/8tv
 #EXTINF:-1 tvg-name="宝贝第一台" group-title="海外中文",宝贝第一台
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
-#EXTINF:-1 tvg-name="Beautiful Life 华人" group-title="海外中文",Beautiful Life 华人
+#EXTINF:-1 tvg-name="Beautiful Life TV" group-title="地方台",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 tvg-name="RTM 马来新闻" group-title="海外中文",RTM 马来新闻
+#EXTINF:-1 tvg-name="Berita RTM" group-title="地方台",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1 tvg-name="BSTV 香港台" group-title="港澳台",BSTV 香港台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
@@ -1118,7 +1112,7 @@ https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 #EXTINF:-1 tvg-name="Luxe TV" group-title="地方台",Luxe TV
 http://103.154.3.101:5001/live/1736.m3u8
 #EXTINF:-1 tvg-name="Mei Ah Movie Channel" group-title="地方台",Mei Ah Movie Channel
-http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
+http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
 #EXTINF:-1 tvg-name="MOMO TV" group-title="地方台",MOMO TV
 http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
 #EXTINF:-1 tvg-name="NTD TV Asia-Pacific" group-title="地方台",NTD TV Asia-Pacific
