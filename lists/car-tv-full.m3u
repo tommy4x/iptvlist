@@ -1043,8 +1043,6 @@ http://125.210.152.18:9090/live/HLJWSHD_H265.m3u8
 http://183.207.248.71/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG
 #EXTINF:-1 tvg-name="黑龙江卫" group-title="地方台",黑龙江卫
 http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
-#EXTINF:-1 tvg-name="8TV 马来西亚" group-title="海外中文",8TV 马来西亚
-http://cdn6.163189.xyz/163189/8tv
 #EXTINF:-1 tvg-name="宝贝第一台" group-title="海外中文",宝贝第一台
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-name="Beautiful Life TV" group-title="地方台",Beautiful Life TV
@@ -1154,7 +1152,7 @@ http://162.19.247.76:22222/live/taishi/index.m3u8
 #EXTINF:-1 tvg-name="TTV News" group-title="地方台",TTV News
 https://live.wcetv.com/hls/master-ttvnews.m3u8
 #EXTINF:-1 tvg-name="TV2 (Malaysia)" group-title="地方台",TV2 (Malaysia)
-https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:-1 tvg-name="TVBS News" group-title="地方台",TVBS News
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="TVBS-Asia" group-title="地方台",TVBS-Asia
