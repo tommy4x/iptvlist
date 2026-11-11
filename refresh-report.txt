@@ -1,7 +1,6 @@
-更新时间: 2026-11-10 11:03:50
-候选池: 582  稳定: 121
+更新时间: 2026-11-11 10:42:23
+候选池: 582  稳定: 128
 
-[央视] CCTV+ 央视网1	https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 [央视] CCTV+ 央视网2	https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 [央视] CCTV-1 综合	http://74.91.26.218:82/live/cctv1hd.m3u8
 [央视] CCTV-10 科教	http://74.91.26.218:82/live/cctv10hd.m3u8
@@ -41,7 +40,9 @@
 [地方台] Beautiful Life TV	https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 [地方台] Berita RTM	https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 [地方台] CCTV-1	https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
+[地方台] CCTV-6	http://198.204.240.250:82/live/cctv6.m3u8
 [地方台] CGNTV Chinese	https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+[地方台] CND 中学生频道	http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 [地方台] China Travel	https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 [地方台] DAAI TV	https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 [地方台] Discovering China	https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
@@ -71,8 +72,14 @@
 [地方台] WCETV Digital Channel 31.8	https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 [地方台] WXTV	https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 [地方台] Xizang TV Tibetan	https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
+[地方台] Yichang Sanxia General Channel	https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
+[地方台] Yichang Sanxia Travel & Life Channel	https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
+[地方台] 上虞1新闻综合	https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+[地方台] 上虞3新商都	https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+[地方台] 上虞經濟文化	https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 [地方台] 东莞综合频道	https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 [地方台] 之江纪录	https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+[地方台] 余姚姚江文化	https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 [地方台] 余姚新闻综合	https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 [地方台] 兴隆综合	https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 [地方台] 农安新闻综合	https://stream2.jlntv.cn/naxw/sd/live.m3u8
@@ -82,6 +89,7 @@
 [地方台] 哈尔滨电影频道	https://stream.hrbtv.net/yspd/playlist.m3u8
 [地方台] 四平新闻综合	https://stream2.jlntv.cn/sptv/sd/live.m3u8
 [地方台] 四平电视台	http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
+[地方台] 嵊州综合	https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 [地方台] 广州电视 综合频道	https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 [地方台] 广西综艺旅游	http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 [地方台] 延边新闻综合	https://stream2.jlntv.cn/jlyb/sd/live.m3u8
@@ -93,7 +101,6 @@
 [地方台] 松原新闻综合	https://stream2.jlntv.cn/sytv/sd/live.m3u8
 [地方台] 楚雄新闻频道	http://hwapi.yntv.net/ew265l/848y54.m3u8
 [地方台] 武进新闻	https://live.wjyanghu.com/live/CH1.m3u8
-[地方台] 武进生活	https://live.wjyanghu.com/live/CH2.m3u8
 [地方台] 江津新闻综合	http://222.179.155.21:1935/ch1.m3u8
 [地方台] 江津经济生活	http://222.179.155.21:1935/ch0.m3u8
 [地方台] 潮州公共频道	http://113.64.146.48:1688/hls/4/index.m3u8
