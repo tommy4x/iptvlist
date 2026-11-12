@@ -1,6 +1,7 @@
-更新时间: 2026-11-11 10:42:23
-候选池: 582  稳定: 128
+更新时间: 2026-11-12 10:57:38
+候选池: 582  稳定: 129
 
+[央视] CCTV+ 央视网1	https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 [央视] CCTV+ 央视网2	https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 [央视] CCTV-1 综合	http://74.91.26.218:82/live/cctv1hd.m3u8
 [央视] CCTV-10 科教	http://74.91.26.218:82/live/cctv10hd.m3u8
@@ -40,7 +41,7 @@
 [地方台] Beautiful Life TV	https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 [地方台] Berita RTM	https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 [地方台] CCTV-1	https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
-[地方台] CCTV-6	http://198.204.240.250:82/live/cctv6.m3u8
+[地方台] CCTV-4 America	https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
 [地方台] CGNTV Chinese	https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 [地方台] CND 中学生频道	http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 [地方台] China Travel	https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
@@ -72,8 +73,6 @@
 [地方台] WCETV Digital Channel 31.8	https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 [地方台] WXTV	https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 [地方台] Xizang TV Tibetan	https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
-[地方台] Yichang Sanxia General Channel	https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
-[地方台] Yichang Sanxia Travel & Life Channel	https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
 [地方台] 上虞1新闻综合	https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 [地方台] 上虞3新商都	https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 [地方台] 上虞經濟文化	https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
@@ -101,6 +100,7 @@
 [地方台] 松原新闻综合	https://stream2.jlntv.cn/sytv/sd/live.m3u8
 [地方台] 楚雄新闻频道	http://hwapi.yntv.net/ew265l/848y54.m3u8
 [地方台] 武进新闻	https://live.wjyanghu.com/live/CH1.m3u8
+[地方台] 武进生活	https://live.wjyanghu.com/live/CH2.m3u8
 [地方台] 江津新闻综合	http://222.179.155.21:1935/ch1.m3u8
 [地方台] 江津经济生活	http://222.179.155.21:1935/ch0.m3u8
 [地方台] 潮州公共频道	http://113.64.146.48:1688/hls/4/index.m3u8
@@ -124,4 +124,5 @@
 [国际] CCTV-4 亚洲	http://74.91.26.218:82/live/cctv4hd.m3u8
 [国际] CGTN	https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 [国际] CGTN Global Biz	https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
+[海外中文] Ando TV 华人	http://play.kankanlive.com/live/1711956137852982.m3u8
 [海外中文] 宝贝第一台	https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
