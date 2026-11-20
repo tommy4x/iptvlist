@@ -15,6 +15,8 @@ http://74.91.26.218:82/live/cctv12hd.m3u8
 http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-14 少儿" group-title="央视",CCTV-14 少儿
 http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-15 音乐" group-title="央视",CCTV-15 音乐
+http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-17 农业农村" group-title="央视",CCTV-17 农业农村
 http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-2 财经" group-title="央视",CCTV-2 财经
@@ -71,8 +73,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" group-title="卫视",湖南卫视
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 tvg-name="青海卫视" group-title="卫视",青海卫视
-https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 #EXTINF:-1 tvg-name="Beautiful Life TV" group-title="地方台",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-name="Berita RTM" group-title="地方台",Berita RTM
@@ -83,8 +83,6 @@ https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
 https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
 #EXTINF:-1 tvg-name="CGNTV Chinese" group-title="地方台",CGNTV Chinese
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-#EXTINF:-1 tvg-name="CND 中学生频道" group-title="地方台",CND 中学生频道
-http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 #EXTINF:-1 tvg-name="China Travel" group-title="地方台",China Travel
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 #EXTINF:-1 tvg-name="DAAI TV" group-title="地方台",DAAI TV
@@ -125,8 +123,6 @@ http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 #EXTINF:-1 tvg-name="Peace TV Chinese" group-title="地方台",Peace TV Chinese
 https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
-#EXTINF:-1 tvg-name="TV BRICS Chinese" group-title="地方台",TV BRICS Chinese
-https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 tvg-name="TV2 (Malaysia)" group-title="地方台",TV2 (Malaysia)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:-1 tvg-name="TVBS-Asia" group-title="地方台",TVBS-Asia
@@ -137,26 +133,10 @@ https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-name="Xizang TV Tibetan" group-title="地方台",Xizang TV Tibetan
 https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
-#EXTINF:-1 tvg-name="Yichang Sanxia General Channel" group-title="地方台",Yichang Sanxia General Channel
-https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
-#EXTINF:-1 tvg-name="Yichang Sanxia Travel & Life Channel" group-title="地方台",Yichang Sanxia Travel & Life Channel
-https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
-#EXTINF:-1 tvg-name="上虞1新闻综合" group-title="地方台",上虞1新闻综合
-https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 tvg-name="上虞3新商都" group-title="地方台",上虞3新商都
-https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-#EXTINF:-1 tvg-name="上虞經濟文化" group-title="地方台",上虞經濟文化
-https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 tvg-name="东莞综合频道" group-title="地方台",东莞综合频道
 https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 #EXTINF:-1 tvg-name="之江纪录" group-title="地方台",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-name="余姚姚江文化" group-title="地方台",余姚姚江文化
-https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-#EXTINF:-1 tvg-name="余姚新闻综合" group-title="地方台",余姚新闻综合
-https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-#EXTINF:-1 tvg-name="兴隆综合" group-title="地方台",兴隆综合
-https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="农安新闻综合" group-title="地方台",农安新闻综合
 https://stream2.jlntv.cn/naxw/sd/live.m3u8
 #EXTINF:-1 tvg-name="前郭综合" group-title="地方台",前郭综合
@@ -181,12 +161,12 @@ http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 https://stream2.jlntv.cn/jlyb/sd/live.m3u8
 #EXTINF:-1 tvg-name="新昌休闲影视" group-title="地方台",新昌休闲影视
 https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1 tvg-name="新昌新聞綜合" group-title="地方台",新昌新聞綜合
+https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 #EXTINF:-1 tvg-name="新疆电视 三套" group-title="地方台",新疆电视 三套
-http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1
+http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
 #EXTINF:-1 tvg-name="新疆电视 二套" group-title="地方台",新疆电视 二套
 https://hls.quklive.com/live/play-sh-21.quklive.com/1777511615189085.m3u8?auth_key=2092871636-a39d8614688744d0b170b856b086ba80-0-33900446b83fa0b5befeb6bedbcd51a0
-#EXTINF:-1 tvg-name="新疆电视 八套" group-title="地方台",新疆电视 八套
-http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="松原新闻综合" group-title="地方台",松原新闻综合
 https://stream2.jlntv.cn/sytv/sd/live.m3u8
 #EXTINF:-1 tvg-name="楚雄新闻频道" group-title="地方台",楚雄新闻频道
@@ -217,8 +197,6 @@ http://183.64.181.25:40023/rongchang01.m3u8
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 #EXTINF:-1 tvg-name="蕭山生活頻道" group-title="地方台",蕭山生活頻道
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:-1 tvg-name="西藏电视 中文" group-title="地方台",西藏电视 中文
-https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 #EXTINF:-1 tvg-name="赤峰综合新闻" group-title="地方台",赤峰综合新闻
 http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 #EXTINF:-1 tvg-name="辽源新闻综合" group-title="地方台",辽源新闻综合
@@ -231,8 +209,6 @@ http://139.211.217.79:9004/hls/75/index.m3u8
 https://stream2.jlntv.cn/jlcc/sd/live.m3u8
 #EXTINF:-1 tvg-name="集安综合" group-title="地方台",集安综合
 https://stream2.jlntv.cn/ja/sd/live.m3u8
-#EXTINF:-1 tvg-name="靖江新闻綜合" group-title="地方台",靖江新闻綜合
-http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
 #EXTINF:-1 tvg-name="餘姚姚江文化" group-title="地方台",餘姚姚江文化
 https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 亚洲" group-title="国际",CCTV-4 亚洲
