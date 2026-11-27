@@ -83,8 +83,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 America" group-title="地方台",CCTV-4 America
 https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
-#EXTINF:-1 tvg-name="CCTV-6" group-title="地方台",CCTV-6
-http://198.204.240.250:82/live/cctv6.m3u8
 #EXTINF:-1 tvg-name="CGNTV Chinese" group-title="地方台",CGNTV Chinese
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 #EXTINF:-1 tvg-name="China Travel" group-title="地方台",China Travel
@@ -143,20 +141,14 @@ https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-name="Xizang TV Tibetan" group-title="地方台",Xizang TV Tibetan
 https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
-#EXTINF:-1 tvg-name="上虞1新闻综合" group-title="地方台",上虞1新闻综合
-https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 tvg-name="上虞3新商都" group-title="地方台",上虞3新商都
-https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-#EXTINF:-1 tvg-name="上虞經濟文化" group-title="地方台",上虞經濟文化
-https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 tvg-name="Yichang Sanxia General Channel" group-title="地方台",Yichang Sanxia General Channel
+https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
+#EXTINF:-1 tvg-name="Yichang Sanxia Travel & Life Channel" group-title="地方台",Yichang Sanxia Travel & Life Channel
+https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
 #EXTINF:-1 tvg-name="东莞综合频道" group-title="地方台",东莞综合频道
 https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 #EXTINF:-1 tvg-name="之江纪录" group-title="地方台",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-name="余姚姚江文化" group-title="地方台",余姚姚江文化
-https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-#EXTINF:-1 tvg-name="余姚新闻综合" group-title="地方台",余姚新闻综合
-https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 tvg-name="兴隆综合" group-title="地方台",兴隆综合
 https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="农安新闻综合" group-title="地方台",农安新闻综合
@@ -173,16 +165,12 @@ https://stream.hrbtv.net/yspd/playlist.m3u8
 https://stream2.jlntv.cn/sptv/sd/live.m3u8
 #EXTINF:-1 tvg-name="四平电视台" group-title="地方台",四平电视台
 http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
-#EXTINF:-1 tvg-name="嵊州综合" group-title="地方台",嵊州综合
-https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 tvg-name="广州电视 综合频道" group-title="地方台",广州电视 综合频道
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 tvg-name="广西综艺旅游" group-title="地方台",广西综艺旅游
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="延边新闻综合" group-title="地方台",延边新闻综合
 https://stream2.jlntv.cn/jlyb/sd/live.m3u8
-#EXTINF:-1 tvg-name="新昌休闲影视" group-title="地方台",新昌休闲影视
-https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-#EXTINF:-1 tvg-name="新昌新聞綜合" group-title="地方台",新昌新聞綜合
-https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 #EXTINF:-1 tvg-name="新疆电视 三套" group-title="地方台",新疆电视 三套
 http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="新疆电视 二套" group-title="地方台",新疆电视 二套
@@ -195,12 +183,16 @@ https://stream2.jlntv.cn/sytv/sd/live.m3u8
 http://hwapi.yntv.net/ew265l/848y54.m3u8
 #EXTINF:-1 tvg-name="武进新闻" group-title="地方台",武进新闻
 https://live.wjyanghu.com/live/CH1.m3u8
+#EXTINF:-1 tvg-name="武进生活" group-title="地方台",武进生活
+https://live.wjyanghu.com/live/CH2.m3u8
 #EXTINF:-1 tvg-name="江津新闻综合" group-title="地方台",江津新闻综合
 http://222.179.155.21:1935/ch1.m3u8
 #EXTINF:-1 tvg-name="江津经济生活" group-title="地方台",江津经济生活
 http://222.179.155.21:1935/ch0.m3u8
 #EXTINF:-1 tvg-name="潮州公共频道" group-title="地方台",潮州公共频道
 http://113.64.146.48:1688/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="白城电视台" group-title="地方台",白城电视台
+https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 #EXTINF:-1 tvg-name="白山新闻综合" group-title="地方台",白山新闻综合
 https://stream2.jlntv.cn/baishan1/sd/live.m3u8
 #EXTINF:-1 tvg-name="福州广播电视台新闻综合频道 (FZTV-1)" group-title="地方台",福州广播电视台新闻综合频道 (FZTV-1)
@@ -211,10 +203,6 @@ http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-name="荣昌综合" group-title="地方台",荣昌综合
 http://183.64.181.25:40023/rongchang01.m3u8
-#EXTINF:-1 tvg-name="萧山新闻综合" group-title="地方台",萧山新闻综合
-https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1 tvg-name="蕭山生活頻道" group-title="地方台",蕭山生活頻道
-https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1 tvg-name="西藏电视 中文" group-title="地方台",西藏电视 中文
 https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 #EXTINF:-1 tvg-name="赤峰综合新闻" group-title="地方台",赤峰综合新闻
@@ -229,8 +217,8 @@ http://139.211.217.79:9004/hls/75/index.m3u8
 https://stream2.jlntv.cn/jlcc/sd/live.m3u8
 #EXTINF:-1 tvg-name="集安综合" group-title="地方台",集安综合
 https://stream2.jlntv.cn/ja/sd/live.m3u8
-#EXTINF:-1 tvg-name="餘姚姚江文化" group-title="地方台",餘姚姚江文化
-https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+#EXTINF:-1 tvg-name="靖江新闻綜合" group-title="地方台",靖江新闻綜合
+http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 亚洲" group-title="国际",CCTV-4 亚洲
 http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 欧洲" group-title="国际",CCTV-4 欧洲
