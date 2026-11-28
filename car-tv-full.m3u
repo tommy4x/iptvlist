@@ -315,8 +315,6 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cctv_4/live.livx/playlist.m3u8
 https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 #EXTINF:-1 tvg-name="CCTV-6" group-title="地方台",CCTV-6
 http://198.204.240.250:82/live/cctv6.m3u8
-#EXTINF:-1 tvg-name="CCTV-8K" group-title="地方台",CCTV-8K
-http://198.204.240.250:82/live/cctv8k.m3u8
 #EXTINF:-1 tvg-name="CGTN" group-title="国际",CGTN
 https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 #EXTINF:-1 tvg-name="CGTN Global Biz" group-title="国际",CGTN Global Biz
